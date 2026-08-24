@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Drift Player</string>
+    <string name="title_activity_main">Drift Player</string>
+    <string name="package_name">com.drift.player</string>
+    <string name="custom_url_scheme">com.drift.player</string>
+</resources>
